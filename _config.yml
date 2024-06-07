@@ -20,7 +20,7 @@ title                    : "Andre Garrido"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andre Garrido"
-description              : "Aqui eu coloco meus projetos e postagens sobre coisas que podem ajudar outras pessoas."
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/andregarrido01" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,15 +112,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Andre Garrido"
+  avatar           : "assets/images/my-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Aqui eu estão meus projetos e postagens sobre coisas que talvez possam ajudar outras pessoas."
   location         : "Somewhere"
-  email            :
+  email            : "andregarrido010@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:andregarrido010@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
